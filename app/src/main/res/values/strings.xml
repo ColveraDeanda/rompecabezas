@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppRompecabezas</string>
+    <string name="lbl_mezclar">Mezclar</string>
+    <string name="lbl_salir">Salir</string>
+    <string name="lbl_creditos">Creditos</string>
+    <string-array name="opciones">
+        <item>Números</item>
+        <item>Andy</item>
+        <item>Mario Bros</item>
+        <item>Payaso</item>
+        <item>Sombrero</item>
+        <item>Favorita</item>
+    </string-array>
+</resources>

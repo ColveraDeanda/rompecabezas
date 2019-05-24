@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="ancho">0dp</dimen>
+    <dimen name="alto">100dp</dimen>
+</resources>
